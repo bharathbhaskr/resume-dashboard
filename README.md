@@ -1,7 +1,3 @@
-Here’s a clean, copy-paste-ready `README.md` tailored for your **`resume-dashboard`** project with Supabase, Retool, and React integration:
-
----
-
 ````markdown
 # 📊 Resume Dashboard
 
