@@ -1,7 +1,3 @@
-Here’s a clean, copy-paste-ready `README.md` tailored for your **`resume-dashboard`** project with Supabase, Retool, and React integration:
-
----
-
 ````markdown
 # 📊 Resume Dashboard
 
@@ -33,6 +29,7 @@ A full-stack Resume Analytics Dashboard that tracks resume uploads by candidates
 
 ```bash
 cd resume-dashboard
+npx create-react-app . --template typescript 
 npm install
 npm run start
 ```
